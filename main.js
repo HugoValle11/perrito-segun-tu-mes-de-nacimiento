@@ -9,7 +9,7 @@ mes.addEventListener('change', () => {
 
    switch (mes.value){
       case 'ene':
-         document.querySelector(".imagen").setAttribute("src", "./ene.jpg");
+         document.querySelector(".imagen").setAttribute("src", "ene.jpg");
          break;
       case 'feb':
          document.querySelector(".imagen").setAttribute("src", "./feb.jpg");
