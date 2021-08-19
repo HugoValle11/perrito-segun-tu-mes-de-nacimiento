@@ -33,7 +33,7 @@ mes.addEventListener('change', () => {
          document.querySelector(".imagen").setAttribute("src", "./imga/ago.JPG");
          break;
       case 'sep':
-         document.querySelector(".imagen").setAttribute("src", "./imga/sep.JPG");
+         document.querySelector(".imagen").setAttribute("src", "./imga/sep2.JPG");
          break;
       case 'oct':
          document.querySelector(".imagen").setAttribute("src", "./imga/oct.JPG");
